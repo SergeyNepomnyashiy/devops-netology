@@ -6,3 +6,4 @@
 5. Файлы "override.tf" и "override.tf.json", а также файлы, имена которых оканчиваются на "*_override.tf" и"_override.tf.json", где бы они не находились.
 6. Файлы с расширением ".terraformrc" и "terraform.rc" где бы они не находились.
 
+new line 2-1
