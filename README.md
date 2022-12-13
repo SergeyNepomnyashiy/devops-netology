@@ -7,3 +7,4 @@
 6. Файлы с расширением ".terraformrc" и ".terraform.rc" где бы они не находились.
 
 new line 2-1
+Test line
